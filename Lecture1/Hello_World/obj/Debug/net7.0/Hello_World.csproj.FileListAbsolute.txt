@@ -1,0 +1,15 @@
+F:\IT\C#\Lectures\Lecture1\Hello_World\bin\Debug\net7.0\Hello_World.exe
+F:\IT\C#\Lectures\Lecture1\Hello_World\bin\Debug\net7.0\Hello_World.deps.json
+F:\IT\C#\Lectures\Lecture1\Hello_World\bin\Debug\net7.0\Hello_World.runtimeconfig.json
+F:\IT\C#\Lectures\Lecture1\Hello_World\bin\Debug\net7.0\Hello_World.dll
+F:\IT\C#\Lectures\Lecture1\Hello_World\bin\Debug\net7.0\Hello_World.pdb
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.csproj.AssemblyReference.cache
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfoInputs.cache
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfo.cs
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.csproj.CoreCompileInputs.cache
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.dll
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\refint\Hello_World.dll
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.pdb
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\Hello_World.genruntimeconfig.cache
+F:\IT\C#\Lectures\Lecture1\Hello_World\obj\Debug\net7.0\ref\Hello_World.dll
